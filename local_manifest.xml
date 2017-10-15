@@ -2,11 +2,13 @@
 <manifest>
     
     <!-- device tree -->	
-    <project path="device/huawei/vns" name="OpenKirin/android_device_huawei_vns" remote="github" revision="7.x" />
+    <project path="device/motorola/perry" name="moto8937/android_device_motorola_perry" remote="github" revision="cm-14.1" />
+    <project path="device/motorola/msm8937-common" name="moto8937/android_device_motorola_msm8937-common" remote="github" revision="cm-14.1" />
+    <project path="device/motorola/qcom318-32" name="moto8937/android_device_motorola_qcom318-32" remote="github" revision="cm-14.1" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
     <!-- kernel -->
-    <project path="kernel/huawei/vns" name="OpenKirin/android_kernel_huawei_vns" remote="github" revision="7.x" />
+    <project path="kernel/motorola/msm8937" name="moto8937/android_kernel_motorola_msm8937" remote="github" revision="cm-14.1" />
     <!-- vendor -->
-    <project path="vendor/huawei/vns" name="OpenKirin/android_vendor_huawei_vns" remote="github" revision="7.x" />
+    <project path="vendor/motorola" name="moto8937/proprietary_vendor_motorola" remote="github" revision="cm-14.1" />
 
 </manifest>
