@@ -1,6 +1,6 @@
 the local manifests:
 
-	git clone https://github.com/CarlosArriagaCM/local_manifest -b vns .repo/local_manifests
+	git clone https://github.com/CarlosArriagaCM/local_manifest -b perry .repo/local_manifests
 
 Then sync up with this command:
 
