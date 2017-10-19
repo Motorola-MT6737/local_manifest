@@ -8,7 +8,7 @@
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
     <project path="external/bson" name="LineageOS/android_external_bson" remote="github" revision="cm-14.1" />
     <!-- kernel -->
-    <project path="kernel/motorola/msm8937" name="CarlosArriagaCM/android_kernel_motorola_msm8937" remote="github" revision="cm-14.1" />
+    <project path="kernel/motorola/msm8937" name="CarlosArriagaCM/android_kernel_motorola_msm8937" remote="github" revision="dt2w" />
     <!-- vendor -->
     <project path="vendor/motorola" name="moto8937/proprietary_vendor_motorola" remote="github" revision="cm-14.1" />
 
