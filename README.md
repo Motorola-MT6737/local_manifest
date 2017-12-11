@@ -1,10 +1,10 @@
 the local manifests:
 
-	git clone https://github.com/CarlosArriagaCM/local_manifest -b perry .repo/local_manifests
+	git clone https://github.com/Motorola-MT6737/local_manifest -b cm-14.1 .repo/local_manifests
 
 Then sync up with this command:
 
-	repo sync --force-sync
+	repo sync --force-sync -q
 	
 You can make the 4 higher depending on how fast your internet connection is. 
 
