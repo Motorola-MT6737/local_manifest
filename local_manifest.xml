@@ -2,11 +2,13 @@
 <manifest>
     
     <!-- device tree -->	
+    <project path="device/motorola/namath" name="Motorola-MT6737/android_device_motorola_namath" remote="github" revision="cm-14.1" />
     <project path="device/motorola/woods" name="Motorola-MT6737/android_device_motorola_woods" remote="github" revision="cm-14.1" />
     <project path="device/motorola/mt6737-common" name="Motorola-MT6737/android_device_motorola_mt6737-common" remote="github" revision="cm-14.1" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
     <!-- kernel -->
     <project path="kernel/motorola/woods" name="Motorola-MT6737/android_kernel_motorola_woods" remote="github" revision="cm-14.1" />
+    <project path="kernel/motorola/namath" name="Mysteryagr/Moto-C-namath-kernel" remote="github" revision="LOS-14.1" />
     <!-- vendor -->
     <project path="vendor/motorola" name="Motorola-MT6737/proprietary_vendor_motorola" remote="github" revision="cm-14.1" />
 
