@@ -13,7 +13,7 @@ the local manifests:
 
 Then sync up with this command:
 
-	$ repo sync --force-sync -q
+	$ repo sync --current-branch --no-tags --no-clone-bundle --optimized-fetch --force-broken --force-sync -j1
 
 -------------
  
