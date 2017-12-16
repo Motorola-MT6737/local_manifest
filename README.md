@@ -1,4 +1,4 @@
-_LineageOS 14.1 for Moto E4 Devices_
+_LineageOS 14.1 for Motorola MediaTek Devices_
 ------------------------------------
 
 Create directories
