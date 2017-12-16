@@ -3,13 +3,13 @@ _LineageOS 14.1 for Moto E4 Devices_
 
 Create directories
 
-	$ mkdir cm-14.1
-	$ cd cm-14.1
+	$ mkdir los-15.0
+	$ cd los-15.0
 
 the local manifests:
 
-	$ repo init -u git://github.com/LineageOS/android.git -b cm-14.1
-	$ git clone https://github.com/Motorola-MT6737/local_manifest -b cm-14.1 .repo/local_manifests
+	$ repo init -u git://github.com/LineageOS/android.git -b linegae-15.0
+	$ git clone https://github.com/Motorola-MT6737/local_manifest -b lineage-15.0 .repo/local_manifests
 
 Then sync up with this command:
 
