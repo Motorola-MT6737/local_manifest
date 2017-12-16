@@ -16,5 +16,7 @@
     <project path="system/sepolicy" name="Motorola-MT6737/android_system_sepolicy" revision="lineage-15.0" remote="github"/>
     <remove-project path="system/core" name="LineageOS/android_system_core" groups="pdk" />
     <project path="system/core" name="Motorola-MT6737/android_system_core" revision="lineage-15.0" remote="github"/>
+    <remove-project path="hardware/interfaces" name="LineageOS/android_hardware_interfaces" groups="pdk" />
+    <project path="hardware/interfaces" name="Motorola-MT6737/android_hardware_interfaces" revision="lineage-15.0" remote="github"/>
     
 </manifest>
