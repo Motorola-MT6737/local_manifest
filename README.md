@@ -1,4 +1,4 @@
-_LineageOS 14.1 for Motorola MediaTek Devices_
+_LineageOS 15.0 for Motorola MediaTek Devices_
 ------------------------------------
 
 Create directories
